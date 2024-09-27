@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../src/projects/dto/create-project.dto.ts"],"sourcesContent":["export class CreateProjectDto {}\n"],"names":["CreateProjectDto"],"mappings":";;;;+BAAaA;;;eAAAA;;;AAAN,IAAA,AAAMA,mBAAN,MAAMA;AAAkB"}
